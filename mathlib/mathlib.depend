@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1724710358 source:c:\users\mirac\onedrive\masaüstü\testcodeb\mathlib\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
